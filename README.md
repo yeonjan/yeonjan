@@ -31,7 +31,7 @@ Hello, I'm Yeonjin Jeong! I am interested in back-end development.
 </div> 
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjan&layout=compact&theme=dracula)
 
 <!--
 ## Github Stats  
