@@ -1,5 +1,3 @@
-<br/>  
-
 ## Hi There 👋  
   
 Hello, I'm Yeonjin Jeong! I am interested in back-end development.
